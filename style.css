@@ -1,0 +1,24 @@
+* {
+  font-style: url(<linkrel='preconnect'href='https://fonts.googleapis.com'><linkrel='preconnect'href='https://fonts.gstatic.com'crossorigin><linkhref='https://fonts.googleapis.com/css2?family=Roboto:wght@700&display=swap'rel='stylesheet'>);
+}
+
+h1 {
+  text-align: center;
+  background-color: rgb(205 205 205);
+  margin: 10px;
+  padding: 10px;
+  border: 2px solid rgb(178, 237, 237);
+}
+.ranga1,
+.ranga2 {
+  border: 2px solid aqua;
+  margin: 10px;
+  padding: 10px;
+  background-color: bisque;
+}
+p {
+  text-align: justify;
+}
+h2 {
+  text-align: center;
+}
