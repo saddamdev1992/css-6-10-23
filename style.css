@@ -22,3 +22,45 @@ p {
 h2 {
   text-align: center;
 }
+h2:hover {
+  background-color: orange;
+  border-radius: 10px;
+}
+h1:hover {
+  background-color: brown;
+  border-radius: 15px;
+}
+ul li:first-child {
+  color: blue;
+}
+ul li:last-child {
+  color: coral;
+}
+ul li:nth-child(2) {
+  color: crimson;
+}
+ul li:nth-child(3) {
+  color: darkred;
+}
+.rintu {
+  width: 100px;
+  height: 100px;
+  background-color: yellow;
+  margin-left: 20px;
+  float: left;
+  text-align: center;
+}
+.rintu:first-child:hover {
+  background-color: cyan;
+  border: 3px solid;
+  text-decoration: none;
+  color: crimson;
+  text-align: center;
+  border: 3px solid;
+  padding: 25px;
+  margin: 20px;
+}
+.rintu:nth-child(3):hover {
+  background-color: hotpink;
+  border: 3px solid;
+}
